@@ -1,12 +1,18 @@
 ## Todo App
 
-### `node app`
+### To run 
+Install dependencies\
+npm install
+
 In the project directory, you can run: \
 `node app`\
 manually restart the app when there are changes\
 or \
 `nodemon app`\
 automatically restarting the node application when file changes in the directory are detected\
+
+### To view
+http://localhost:3000/todo
 
 ### `Establish connection to Mongo`
 
